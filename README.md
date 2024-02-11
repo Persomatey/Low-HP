@@ -6,7 +6,7 @@
 
 ## The Low HP Website can be viewed at the following link: 
 
-[https://persomatey.github.io/LowHP/](https://persomatey.github.io/LowHP/) 
+[https://persomatey.github.io/LowHP/](https://persomatey.github.io/Low-HP/) 
 
 ## The Low HP Podcast can be followed at the following links: 
 
