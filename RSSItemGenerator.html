@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Input Fields</title>
+	</head>
+	<body onload="PopulateFields()">
+		<h1>Input Fields</h1>
+		<form>
+			<!-- File URL -->
+			<!-- <label>
+				File URL:
+				<input type="text" id="fileURL" value="https://persomatey.github.io/LowHP/audio/LowHP-Episode001-256.mp3" style="width: 750px;">
+			</label> -->
+			<br>
+			<!-- File URL -->
+			<label>
+				File:
+				<input type="file" id="fileUpload" accept=".mp3"> <img id="spinner" src="" style="height:12px; width:12px; padding-right: 0px;"></img>
+			</label>
+			<br>
+			<!-- Artwork URL -->
+			<label>
+				Artwork URL:
+				<input type="text" id="artworkURL" value="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" style="width: 750px;">
+			</label>
+			<br>
+			<!-- Episode Title -->
+			<label>
+				Episode Title:
+				<input type="text" id="title" value="" style="width: 500px;">
+			</label>
+			<br>
+			<!-- Episode Number -->
+			<label>
+				Episode Number:
+				<input type="text" id="epNum" value="" style="width: 30px;">
+			</label>
+			<br>
+			<!-- Authors -->
+			<label>
+				Authors:
+				<input type="text" id="authors" value="Hunter, Brad, Gerardo, Teresa " style="width: 400px;">
+			</label>
+			<br>
+			<!-- Description -->
+			<label>
+				Description:
+				<input type="text" id="desc" value="" style="width: 750px;">
+			</label>
+			<br>
+			<!-- Website Episode Link -->
+			<!-- 
+			<label>
+				Website Episode Link:
+				<input type="text" id="webLink" value="https://persomatey.github.io/LowHP/episodes/001.html" style="width: 250px;">
+			</label>
+			<br>
+			-->
+			<!-- YouTube Episode Link -->
+			<label>
+				YouTube Episode Link:
+				<input type="text" id="ytLink" value="https://www.youtube.com/@Low-HP" style="width: 250px;">
+			</label>
+			<br>
+			<!-- Content:Encoded -->
+			<label>
+				Content:Encoded:
+				<textarea id="content" value="" rows="20" cols="150"></textarea>
+			</label>
+			<br>
+			<!-- Content -->
+			<!-- <label>
+				Content-Encoded:
+				<textarea id="content" value="" rows="20" cols="150"></textarea>
+			</label> -->
+			<br>
+
+			<!-- Button -->
+			<button type="button" id="display-button" disabled>Display values</button>
+		</form>
+
+		<p id="result"></p>
+		<!-- <input type="text" id="result" name="result" style="width: 500px; height: 500px;"><br><br> -->
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.min.js"></script>
+
+		<script>
+			let displayButton = document.getElementById("display-button");
+			let resultParagraph = document.getElementById("result");
+
+			var mp3Duration; 
+			var mp3Size; 
+
+			const button = document.getElementById("display-button");
+			const fileInput = document.getElementById("fileUpload");
+
+			displayButton.addEventListener("click", function() 
+			{
+				// let fileURL = document.getElementById("fileURL").value;
+				let title = document.getElementById("title").value;
+				let epNum = document.getElementById("epNum").value;
+				let authors = document.getElementById("authors").value;
+				let desc = document.getElementById("desc").value;
+				let webLink = `https://persomatey.github.io/LowHP/episodes/${PadString(epNum)}.html`;
+				let ytLink = document.getElementById("ytLink").value;
+				// let content = document.getElementById("content").value;
+				let audioContent = document.getElementById("content").value;
+				let artworkURL = document.getElementById("artworkURL").value;
+				let fileURL = `https://persomatey.github.io/LowHP/audio/${PadString(epNum)}.mp3`;
+
+				Print(fileURL, title, epNum, authors, desc, webLink, ytLink, audioContent, artworkURL); 
+			});
+
+			function GetMP3FileInfo(file) 
+			{
+				const reader = new FileReader();
+				reader.readAsArrayBuffer(file);
+
+				return new Promise((resolve, reject) => 
+				{
+					reader.onload = function(event) 
+					{
+						const buffer = event.target.result;
+						const context = new AudioContext();
+						context.decodeAudioData(buffer, function(decodedData) 
+						{
+							const duration = decodedData.duration.toFixed(2);
+							const fileSize = file.size;
+							resolve({ duration, fileSize });
+						});
+					};
+					reader.onerror = reject;
+				});
+			}
+
+			fileInput.addEventListener("change", async function(event) 
+			{
+				const file = event.target.files[0];
+				const { duration, fileSize} = await GetMP3FileInfo(file);
+
+				jsmediatags.read(file, 
+				{
+					onSuccess: function(tag) 
+					{
+						console.log(tag)
+						// Array buffer to base64
+						const data = tag.tags.picture.data
+						const format = tag.tags.picture.format
+						let base64String = ""
+						for (let i = 0; i < data.length; i++) 
+						{
+							base64String += String.fromCharCode(data[i])
+						}
+						
+						console.log(`Duration: ${duration}s`);
+						console.log(`File size: ${fileSize} bytes`);
+						console.log(`File name: ${file.name} `); 
+						var epNum = file.name; 
+						epNum = epNum.replace('.mp3', '');
+						epNum = epNum.replace(/^0+/, '');
+						console.log(`Episode Number: ${epNum}`); 
+						console.log(`Comment: ${tag.tags.comment.text}`); 
+
+						mp3Size = fileSize; 
+						mp3Duration = Math.round(duration); 
+						UpdateFields(tag.tags.title, tag.tags.comment.text, epNum); 
+
+						button.disabled = false; 
+						document.getElementById("spinner").src = "";
+					}
+				});
+			});
+
+			function UpdateFields(title, desc, epNum)
+			{
+				document.getElementById('title').value = title; 
+				document.getElementById('desc').value = desc; 
+				document.getElementById('epNum').value = epNum; 
+			}
+
+			fileInput.addEventListener("click", async function(event) 
+			{
+				document.getElementById("spinner").src = "LowHP/images/spinner.gif";
+			});
+
+			function PadString(str) 
+			{
+				while (str.length < 3) 
+				{
+					str = "0" + str;
+				}
+				return str;
+			}
+
+			function PopulateFields() 
+			{
+				document.getElementById("audioContentoded").value = 
+`<h4>You can follow us:</h4> 
+<ul>
+<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+</ul>
+
+<h4>Links and Show Notes:</h4>
+<h5><a href="" target="_blank">Link_to_a_source</a></h5>
+<h5><a href="" target="_blank">Link_to_a_source</a></h5><p>Some_text_describing_the_link</p>
+`;
+				document.getElementById("content").value = 
+`<h5>Links and Show Notes:</h5>
+<h6><a href="" target="_blank">Link_to_a_source</a></h6>
+<h6><a href="" target="_blank">Link_to_a_source<div style="color: #406098;">Some_text_describing_the_link</div> </a></h6>
+`;
+			}
+
+			function GetCurrentDateTime() 
+			{
+				const date = new Date();
+				const dayOfWeek = date.toLocaleString('en-US', { weekday: 'short' });
+				const month = date.toLocaleString('en-US', { month: 'short' });
+				const dayOfMonth = date.getDate();
+				const year = date.getFullYear();
+				const time = date.toLocaleTimeString('en-US', { hour12: false, hour: 'numeric', minute: 'numeric', second: 'numeric' });
+				const timeZone = date.toLocaleString('en-US', { timeZoneName: 'short' });
+				return `${dayOfWeek}, ${dayOfMonth} ${month} ${year} ${time} ${timeZone}`;
+			}
+
+			function GetNextDataTime()
+			{
+				// MM/DD/YYY
+				const today = new Date();
+				const daysUntilFriday = (5 - today.getDay() + 7) % 7;
+				const nextFriday = new Date(today.getFullYear(), today.getMonth(), today.getDate() + daysUntilFriday);
+				const month = nextFriday.getMonth() + 1;
+				const day = nextFriday.getDate();
+				const year = nextFriday.getFullYear();
+				const formA = `${month.toString().padStart(2, '0')}/${day.toString().padStart(2, '0')}/${year.toString()}`;
+
+				// Day, DD Mon YYY 
+				const daysOfWeek = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+				const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+				const dayOfWeek = daysOfWeek[nextFriday.getDay()];
+				const monthName = monthNames[nextFriday.getMonth()];
+				const formB = `${dayOfWeek}, ${day} ${monthName} ${year}`; 
+
+				// Example: Fri, 10 Mar 2023 05:00:00 3/10/2023, 5:00:00 AM PST 
+				// return `${formB} 05:00:00 ${formA}, 5:00:00 AM PST`;
+				return `${formB} 05:00:00 PST`;
+			}
+
+			function ReplaceTags(input) 
+			{
+				const lines = input.split(/\r?\n/);
+				const showNotesIndex = lines.findIndex(line => line.includes("<h4>Links and Show Notes:</h4>"));
+				const remLines = lines.slice(showNotesIndex);
+				const remStr = remLines.join("\n");
+				input = remStr; 
+
+				const output = input
+					.replace(/<h5>/g, "<h6>") 
+					.replace(/<\/h5>/g, "</h6>")
+					.replace(/<p>/g, "<div style='color: #406098;'>") 
+					.replace(/<\/p>/g, "</div>")
+					.replace(/<h4>/g, "<h5>")
+					.replace(/<\/h4>/g, "</h5>")
+					;
+				return output;
+			}
+
+			async function Print(fileURL, title, epNum, authors, desc, webLink, ytLink, audioContent, artworkURL)
+			{
+				let newAudioContent = audioContent.replaceAll("\n", "\n &nbsp &nbsp &nbsp "); 
+				let websiteContent = ReplaceTags(newAudioContent); 
+
+				let str = `` 
+				str += `<item>\n`; 
+				str += ` &nbsp <title>${epNum}: ${title}</title>\n`;
+				str += ` &nbsp <itunes:title>${title}</itunes:title>\n`;
+				str += ` &nbsp <itunes:episode>${epNum}</itunes:episode>\n`;
+				str += ` &nbsp <itunes:author>${authors}</itunes:author>\n`;
+				str += ` &nbsp <itunes:explicit>clean</itunes:explicit>\n`;
+				str += ` &nbsp <itunes:duration>${mp3Duration}</itunes:duration>\n`;
+				str += ` &nbsp <enclosure url="${fileURL}" length="${mp3Size}" type="audio/mp3" />\n`;
+				str += ` &nbsp <description>${desc}</description>\n`;
+				str += ` &nbsp <itunes:subtitle>${desc}</itunes:subtitle>\n`;
+				str += ` &nbsp <itunes:summary>${desc}</itunes:summary>\n`;
+				str += ` &nbsp <pubDate>${GetNextDataTime()}</pubDate>\n`;
+				str += ` &nbsp <link>${webLink}</link>\n`;
+				str += ` &nbsp <guid>${webLink}</guid>\n`;
+				str += ` &nbsp <ytlink>${ytLink}</ytlink>\n`;
+
+				str += ` &nbsp <content:encoded>\n`
+				str += ` &nbsp &nbsp <![CDATA[\n`;
+				str += ` &nbsp &nbsp &nbsp ${newAudioContent}\n`
+				str += ` &nbsp &nbsp]]>\n`
+				str += ` &nbsp </content:encoded>\n`
+
+				str += ` &nbsp <content>\n`
+				str += ` &nbsp &nbsp <![CDATA[\n`;
+				str += ` &nbsp &nbsp &nbsp ${websiteContent}\n`
+				str += ` &nbsp &nbsp]]>\n`
+				str += ` &nbsp </content>\n`
+
+				str += ` &nbsp <itunes:image href="${artworkURL}" \/>\n`
+				str += `</item>`
+				
+				str = str.replaceAll('<', '&lt;'); 
+				str = str.replaceAll('>', '&gt;'); 
+				str = str.replaceAll('\n', '<br>'); 
+
+				resultParagraph.innerHTML = str;
+			}
+		</script>
+	</body>
+</html>

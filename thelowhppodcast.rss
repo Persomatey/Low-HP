@@ -1,0 +1,928 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>The Low HP Podcast</title>
+		<link>https://persomatey.github.io/LowHP/</link>
+		<description>Low HP is where we discuss gaming news, what we're currently playing, and thoughts on the gaming world in general.</description>
+		<language>en-US</language>
+		<itunes:author>Low HP</itunes:author>
+		<itunes:keywords>gaming, nintendo, zelda, pokemon</itunes:keywords>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png"/>
+		<itunes:owner>
+			<itunes:name>Low HP</itunes:name>
+			<itunes:email>thelowhp@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:block>no</itunes:block>
+		<itunes:category text="Leisure">
+			<itunes:category text="Video Games"/>
+		</itunes:category>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
+		</itunes:category>
+		<item>
+			<title>23: So Much Pokémon News!</title>
+			<itunes:title>So Much Pokémon News!</itunes:title>
+			<itunes:episode>23</itunes:episode>
+			<itunes:author>Hunter, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>1574</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/023.mp3" length="51065296" type="audio/mp3" />
+			<description>Our reactions to the August 2023 Pokémon Presents, new details from the Pokémon World Championship, and more! </description>
+			<itunes:subtitle>Our reactions to the August 2023 Pokémon Presents, new details from the Pokémon World Championship, and more! </itunes:subtitle>
+			<itunes:summary>Our reactions to the August 2023 Pokémon Presents, new details from the Pokémon World Championship, and more! </itunes:summary>
+			<pubDate>Fri, 18 Aug 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/023.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/023.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+
+					<h5><a href="https://youtu.be/7QiLe4pTHAE" target="_blank">Pokémon Presents</a></h5>
+					<h5><a href="https://youtu.be/0VLPfiX5VJU" target="_blank">Pokémon World Championship news</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h6><a href="https://youtu.be/7QiLe4pTHAE" target="_blank">Pokémon Presents</a></h6>
+					<h6><a href="https://youtu.be/0VLPfiX5VJU" target="_blank">Pokémon World Championship news</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>22: Low HP Conquers EVO 2023</title>
+			<itunes:title>Low HP Conquers EVO 2023</itunes:title>
+			<itunes:episode>22</itunes:episode>
+			<itunes:author>Hunter, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>1994</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/022.mp3" length="64313702" type="audio/mp3" />
+			<description>EVO 2023 has come to a close. How did Gerardo fare? We discuss this and more! </description>
+			<itunes:subtitle>EVO 2023 has come to a close. How did Gerardo fare? We discuss this and more! </itunes:subtitle>
+			<itunes:summary>EVO 2023 has come to a close. How did Gerardo fare? We discuss this and more! </itunes:summary>
+			<pubDate>Fri, 11 Aug 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/022.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/022.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>21: Nintendo's Remaster Frenzy!</title>
+			<itunes:title>Nintendo's Remaster Frenzy!</itunes:title>
+			<itunes:episode>21</itunes:episode>
+			<itunes:author>Hunter, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2823</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/021.mp3" length="91181876" type="audio/mp3" />
+			<description>Nintendo has been on a roll of remastering older games lately. What does that mean for the future? </description>
+			<itunes:subtitle>Nintendo has been on a roll of remastering older games lately. What does that mean for the future? </itunes:subtitle>
+			<itunes:summary>Nintendo has been on a roll of remastering older games lately. What does that mean for the future? </itunes:summary>
+			<pubDate>Fri, 28 Jul 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/021.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/021.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>20: Gaming Update 2</title>
+			<itunes:title>Gaming Update 2</itunes:title>
+			<itunes:episode>20</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2207</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/020.mp3" length="71282425" type="audio/mp3" />
+			<description>Catching ourselves up on the games we've been playing. </description>
+			<itunes:subtitle>Catching ourselves up on the games we've been playing. </itunes:subtitle>
+			<itunes:summary>Catching ourselves up on the games we've been playing. </itunes:summary>
+			<pubDate>Fri, 21 Jul 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/020.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/020.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>19: Tears of the Kingdom Story Discussion (Heavy Spoilers!)</title>
+			<itunes:title>Tears of the Kingdom Story Discussion (Heavy Spoilers!)</itunes:title>
+			<itunes:episode>19</itunes:episode>
+			<itunes:author>Hunter, Brad</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4882</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/019.mp3" length="79219618" type="audio/mp3" />
+			<description>Discussing the story, world, and lore of Tears of the Kingdom. </description>
+			<itunes:subtitle>Discussing the story, world, and lore of Tears of the Kingdom. </itunes:subtitle>
+			<itunes:summary>Discussing the story, world, and lore of Tears of the Kingdom. </itunes:summary>
+			<pubDate>Fri, 14 Jul 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/019.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/019.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=vg9DS88gOUg" target="_blank">All Memories (In Order)</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=rQCVM9h-flk" target="_blank">The older video we mentioned of us discussing Breath of the Wild's story </a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=vg9DS88gOUg" target="_blank">All Memories (In Order)</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=rQCVM9h-flk" target="_blank">The older video we mentioned of us discussing Breath of the Wild's story </a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>18: June Nintendo Direct Discussion</title>
+			<itunes:title>June Nintendo Direct Discussion</itunes:title>
+			<itunes:episode>18</itunes:episode>
+			<itunes:author>Hunter, Brad</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2878</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/018.mp3" length="92608788" type="audio/mp3" />
+			<description>Nintendo couldn't let the Summer Games Fest end without finishing it off with their June Direct! </description>
+			<itunes:subtitle>Nintendo couldn't let the Summer Games Fest end without finishing it off with their June Direct! </itunes:subtitle>
+			<itunes:summary>Nintendo couldn't let the Summer Games Fest end without finishing it off with their June Direct! </itunes:summary>
+			<pubDate>Fri, 23 Jun 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/018.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/018.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=mrZtzGRAKrM" target="_blank">Nintendo Direct 6.21.2023</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=mrZtzGRAKrM" target="_blank">Nintendo Direct 6.21.2023</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>17: Summer Games Fest: The Aftermath!</title>
+			<itunes:title>Summer Games Fest: The Aftermath!</itunes:title>
+			<itunes:episode>17</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4085</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/017.mp3" length="98980124" type="audio/mp3" />
+			<description>How did we do on our hopes and predictions? What were we delighted to see? All this and more on The Aftermath! </description>
+			<itunes:subtitle>How did we do on our hopes and predictions? What were we delighted to see? All this and more on The Aftermath! </itunes:subtitle>
+			<itunes:summary>How did we do on our hopes and predictions? What were we delighted to see? All this and more on The Aftermath! </itunes:summary>
+			<pubDate>Fri, 16 Jun 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/017.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/017.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=_CymqHdNYkg&t=0s" target="_blank">CD Project Are All Liars</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=S5Bz7Pa_nF4&t=0s" target="_blank">Summer Games Fest Opening Presentation</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=yqpcF-Q4enc&t=0s" target="_blank">Day of the Devs Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=1sqigqNncZQ&t=0s" target="_blank">Devolver Digital Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=P--rmXifm3U&t=0s" target="_blank">Access-Ability Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=_8IPGungriE&t=0s" target="_blank">Wholesome Direct Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=FySY9LEd1F0&t=0s" target="_blank">Future Games Show</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=IqrSk8a-ccY&t=0s" target="_blank">Xbox Games Showcase & Starfield Direct Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=pObBjJhlS_A&t=0s" target="_blank">PC Gaming Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=IkbgRLrQfyQ&t=0s" target="_blank">Ubisoft Forward Showcase</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=voSxT2A4xvs&t=0s" target="_blank">Xbox Games Showcase (Extended)</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=_CymqHdNYkg&t=0s" target="_blank">CD Project Are All Liars</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=S5Bz7Pa_nF4&t=0s" target="_blank">Summer Games Fest Opening Presentation</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=yqpcF-Q4enc&t=0s" target="_blank">Day of the Devs Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=1sqigqNncZQ&t=0s" target="_blank">Devolver Digital Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=P--rmXifm3U&t=0s" target="_blank">Access-Ability Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=_8IPGungriE&t=0s" target="_blank">Wholesome Direct Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=FySY9LEd1F0&t=0s" target="_blank">Future Games Show</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=IqrSk8a-ccY&t=0s" target="_blank">Xbox Games Showcase & Starfield Direct Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=pObBjJhlS_A&t=0s" target="_blank">PC Gaming Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=IkbgRLrQfyQ&t=0s" target="_blank">Ubisoft Forward Showcase</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=voSxT2A4xvs&t=0s" target="_blank">Xbox Games Showcase (Extended)</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>16: Summer Games Fest Predictathon!</title>
+			<itunes:title>Summer Games Fest Predictathon!</itunes:title>
+			<itunes:episode>16</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2560</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/016.mp3" length="82656237" type="audio/mp3" />
+			<description>Our hopes and predictions for the Summer Games Fest 2023! </description>
+			<itunes:subtitle>Our hopes and predictions for the Summer Games Fest 2023! </itunes:subtitle>
+			<itunes:summary>Our hopes and predictions for the Summer Games Fest 2023! </itunes:summary>
+			<pubDate>Fri, 9 Jun 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/016.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/016.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>15: PlayStation Showcase 2023 Discussion</title>
+			<itunes:title>PlayStation Showcase 2023 Discussion</itunes:title>
+			<itunes:episode>15</itunes:episode>
+			<itunes:author>Hunter, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4512</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/015.mp3" length="73648403" type="audio/mp3" />
+			<description>Reacting to and discussing the PlayStation Showcase for 2023. </description>
+			<itunes:subtitle>Reacting to and discussing the PlayStation Showcase for 2023. </itunes:subtitle>
+			<itunes:summary>Reacting to and discussing the PlayStation Showcase for 2023. </itunes:summary>
+			<pubDate>Fri, 2 Jun 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/015.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/015.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>14: Tears of the Kingdom (Spoiler Free) Earlier Impressions</title>
+			<itunes:title>Tears of the Kingdom (Spoiler Free) Earlier Impressions</itunes:title>
+			<itunes:episode>14</itunes:episode>
+			<itunes:author>Hunter, Brad </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>3648</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/014.mp3" length="88419025" type="audio/mp3" />
+			<description>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed!</description>
+			<itunes:subtitle>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed!</itunes:subtitle>
+			<itunes:summary>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed!</itunes:summary>
+			<pubDate>Fri, 26 May 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/014.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/014.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>13: Pokémon Let's Go Gold and Silver</title>
+			<itunes:title>Pokémon Let's Go Gold and Silver</itunes:title>
+			<itunes:episode>13</itunes:episode>
+			<itunes:author>Hunter, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2000</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/013.mp3" length="64784641" type="audio/mp3" />
+			<description>What could the Pokémon Let's Go franchise do with Johto? </description>
+			<itunes:subtitle>What could the Pokémon Let's Go franchise do with Johto? </itunes:subtitle>
+			<itunes:summary>What could the Pokémon Let's Go franchise do with Johto? </itunes:summary>
+			<pubDate>Fri, 19 May 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/013.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/013.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>12: Gaming Update</title>
+			<itunes:title>Gaming Update</itunes:title>
+			<itunes:episode>12</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>5167</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/012.mp3" length="83805559" type="audio/mp3" />
+			<description>Catching ourselves up on the games we've been playing. </description>
+			<itunes:subtitle>Catching ourselves up on the games we've been playing. </itunes:subtitle>
+			<itunes:summary>Catching ourselves up on the games we've been playing. </itunes:summary>
+			<pubDate>Fri, 12 May 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/012.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/012.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>11: Pokémon Black and White Remakes</title>
+			<itunes:title>Pokémon Black and White Remakes</itunes:title>
+			<itunes:episode>11</itunes:episode>
+			<itunes:author>Hunter, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2327</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/011.mp3" length="75159200" type="audio/mp3" />
+			<description>What could Pokémon Black and White remakes look like in the future? </description>
+			<itunes:subtitle>What could Pokémon Black and White remakes look like in the future? </itunes:subtitle>
+			<itunes:summary>What could Pokémon Black and White remakes look like in the future? </itunes:summary>
+			<pubDate>Fri, 5 May 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/011.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/011.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>10: The Next Nintendo Console</title>
+			<itunes:title>The Next Nintendo Console</itunes:title>
+			<itunes:episode>10</itunes:episode>
+			<itunes:author>Hunter, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>2435</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/010.mp3" length="78636680" type="audio/mp3" />
+			<description>With job listings for Nintendo's development on the next console appearing, what could we learn from them?</description>
+			<itunes:subtitle>With job listings for Nintendo's development on the next console appearing, what could we learn from them?</itunes:subtitle>
+			<itunes:summary>With job listings for Nintendo's development on the next console appearing, what could we learn from them?</itunes:summary>
+			<pubDate>Fri, 28 Apr 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/010.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/010.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>9: Everything We Noticed in the Tears of the Kingdom Final Trailer</title>
+			<itunes:title>Everything We Noticed in the Tears of the Kingdom Final Trailer</itunes:title>
+			<itunes:episode>9</itunes:episode>
+			<itunes:author>Hunter, Brad</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>6778</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/009.mp3" length="101440929" type="audio/mp3" />
+			<description>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed!</description>
+			<itunes:subtitle>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed!</itunes:subtitle>
+			<itunes:summary>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed!</itunes:summary>
+			<pubDate>Fri, 28 Apr 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/009.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/009.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=uHGShqcAHlQ" target="_blank">Final Trailer</a></h5>
+					<h5><a href="https://www.zelda.com/tears-of-the-kingdom/en/features/ " target="_blank">Zelda website says where the game’s starting location will be </a></h5>
+					<h5><a href="https://twitter.com/ZeldaOfficialJP/status/1647887623812452352" target="_blank">Artwork for Sidon</a></h5>
+					<h5><a href="https://twitter.com/ZeldaOfficialJP/status/1646800468721696771" target="_blank">Artwork for Tulin</a></h5>
+					<h5><a href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images-for-show-notes/009/NewArtworks.png" target="_blank">All New Artworks</a></h5>
+					<h5><a href="https://www.creativeuncut.com/gallery-31/art/lozbotw-king-dorephan.jpg " target="_blank">King Dorephan </a></h5>
+					<h5><a href="https://attackofthefanboy.com/wp-content/uploads/2023/04/Confirmed-Bosses-Tears-of-the-Kingdom-Demise-Return.jpg " target="_blank">Image of Demise </a></h5>
+					<h5><a href="https://64.media.tumblr.com/b4d5ed5b4bcb705af4ad36c8da24e512/tumblr_p9eupi0b4g1x2q96no5_1280.jpg " target="_blank">Image of the throne room </a></h5>
+					<h5><a href="https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a1/BotW_Molduga_Model.png/revision/latest?cb=20171226215850 " target="_blank">Image of a Molduga </a></h5>
+					<h5><a href="https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/57/MM_Gyorg_Artwork.png/revision/latest?cb=20150110061422" target="_blank">Majora's Mask Gyrog</a></h5>
+					<h5><a href="https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/74/TWW_Gyorg_Artwork.png/revision/latest?cb=20130925215904" target="_blank">Wind Waker Gyorg</a></h5>
+					<h5><a href="https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-hd/f/fc/The_Legend_of_Zelda._Breath_of_the_Wild_Screen_Shot_3-20-17%2C_7.04_PM_2.png " target="_blank">Typhlo Ruins </a></h5>
+					<h5><a href="https://www.techpowerup.com/307212/the-legend-of-zelda-tears-of-the-kingdom-gets-final-pre-launch-trailer " target="_blank">The Upheaval </a></h5>
+					<h5><a href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images-for-show-notes/009/FoundZelda.jpg " target="_blank">Reddit Found Zelda</a></h5>
+					<h5><a href="https://www.google.com/search?q=magatama&tbm=isch&ved=2ahUKEwjx3OC2pLL-AhUlOEQIHdWbDeIQ2-cCegQIABAA&oq=magatama&gs_lcp=CgNpbWcQAzIKCAAQigUQsQMQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBwgAEIoFEEMyBwgAEIoFEEM6BwgAEBgQgARQpwtYpwtgvAxoAHAAeACAATeIAWiSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=HPM9ZPHeKKXwkPIP1be2kA4&bih=937&biw=1920&rlz=1C1CHBF_enUS915US915&hl=en " target="_blank">The Tears (Magatama’s) </a></h5>
+					<h5><a href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images-for-show-notes/009/RecallSymbolOnTear.png " target="_blank">Zelda’s Tear </a></h5>
+					<h5><a href="https://images.nintendolife.com/d45c379db4543/zelda-tears-of-the-kingdom-trailer-breakdown.large.jpg" target="_blank">Seven Tears</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=uHGShqcAHlQ" target="_blank">Final Trailer</a></h6>
+					<h6><a href="https://www.zelda.com/tears-of-the-kingdom/en/features/ " target="_blank">Zelda website says where the game’s starting location will be </a></h6>
+					<h6><a href="https://twitter.com/ZeldaOfficialJP/status/1647887623812452352" target="_blank">Artwork for Sidon</a></h6>
+					<h6><a href="https://twitter.com/ZeldaOfficialJP/status/1646800468721696771" target="_blank">Artwork for Tulin</a></h6>
+					<h6><a href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images-for-show-notes/009/NewArtworks.png" target="_blank">All New Artworks</a></h6>
+					<h6><a href="https://www.creativeuncut.com/gallery-31/art/lozbotw-king-dorephan.jpg " target="_blank">King Dorephan </a></h6>
+					<h6><a href="https://attackofthefanboy.com/wp-content/uploads/2023/04/Confirmed-Bosses-Tears-of-the-Kingdom-Demise-Return.jpg " target="_blank">Image of Demise </a></h6>
+					<h6><a href="https://64.media.tumblr.com/b4d5ed5b4bcb705af4ad36c8da24e512/tumblr_p9eupi0b4g1x2q96no5_1280.jpg " target="_blank">Image of the throne room </a></h6>
+					<h6><a href="https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a1/BotW_Molduga_Model.png/revision/latest?cb=20171226215850 " target="_blank">Image of a Molduga </a></h6>
+					<h6><a href="https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/57/MM_Gyorg_Artwork.png/revision/latest?cb=20150110061422" target="_blank">Majora's Mask Gyrog</a></h6>
+					<h6><a href="https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/74/TWW_Gyorg_Artwork.png/revision/latest?cb=20130925215904" target="_blank">Wind Waker Gyorg</a></h6>
+					<h6><a href="https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-hd/f/fc/The_Legend_of_Zelda._Breath_of_the_Wild_Screen_Shot_3-20-17%2C_7.04_PM_2.png " target="_blank">Typhlo Ruins </a></h6>
+					<h6><a href="https://www.techpowerup.com/307212/the-legend-of-zelda-tears-of-the-kingdom-gets-final-pre-launch-trailer " target="_blank">The Upheaval </a></h6>
+					<h6><a href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images-for-show-notes/009/FoundZelda.jpg " target="_blank">Reddit Found Zelda</a></h6>
+					<h6><a href="https://www.google.com/search?q=magatama&tbm=isch&ved=2ahUKEwjx3OC2pLL-AhUlOEQIHdWbDeIQ2-cCegQIABAA&oq=magatama&gs_lcp=CgNpbWcQAzIKCAAQigUQsQMQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBwgAEIoFEEMyBwgAEIoFEEM6BwgAEBgQgARQpwtYpwtgvAxoAHAAeACAATeIAWiSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=HPM9ZPHeKKXwkPIP1be2kA4&bih=937&biw=1920&rlz=1C1CHBF_enUS915US915&hl=en " target="_blank">The Tears (Magatama’s) </a></h6>
+					<h6><a href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images-for-show-notes/009/RecallSymbolOnTear.png " target="_blank">Zelda’s Tear </a></h6>
+					<h6><a href="https://images.nintendolife.com/d45c379db4543/zelda-tears-of-the-kingdom-trailer-breakdown.large.jpg" target="_blank">Seven Tears</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>8: The Super Mario Bros Movie is Here</title>
+			<itunes:title>The Super Mario Bros Movie is Here</itunes:title>
+			<itunes:episode>8</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>3652</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/008.mp3" length="88427061" type="audio/mp3" />
+			<description>Our impressions and thoughts on the Super Mario Bros. Movie </description>
+			<itunes:subtitle>Our impressions and thoughts on the Super Mario Bros. Movie </itunes:subtitle>
+			<itunes:summary>Our impressions and thoughts on the Super Mario Bros. Movie </itunes:summary>
+			<pubDate>Fri, 14 Apr 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/008.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/008.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>7: Everything We Noticed in the TotK Gameplay Demonstration</title>
+			<itunes:title>Everything We Noticed in the TotK Gameplay Demonstration</itunes:title>
+			<itunes:episode>7</itunes:episode>
+			<itunes:author>Hunter, Brad</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>3908</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/007.mp3" length="125696419" type="audio/mp3" />
+			<description>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed! </description>
+			<itunes:subtitle>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed! </itunes:subtitle>
+			<itunes:summary>Analyzing the latest footage from the Tears of the Kingdom Gameplay Demonstration -- our reactions and everything we noticed! </itunes:summary>
+			<pubDate>Fri, 14 Apr 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/007.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/007.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=a6qna-ZCbxA" target="_blank">Tears of the Kingdom Gameplay Demonstration</a></h5>
+					<h5><a href="https://youtube.com/shorts/gT2-hvxvy8E" target="_blank">Ginkgo Tree Short </a></h5>
+					<h5><a href="https://youtube.com/shorts/TDZshHvCWLo" target="_blank">Nintendo Ultra Hand Toy Short </a></h5>
+					<h5><a href="https://youtube.com/shorts/-jixZp7QfEg" target="_blank">Caves & Shrines Short</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=a6qna-ZCbxA" target="_blank">Tears of the Kingdom Gameplay Demonstration</a></h6>
+					<h6><a href="https://youtube.com/shorts/gT2-hvxvy8E" target="_blank">Ginkgo Tree Short </a></h6>
+					<h6><a href="https://youtube.com/shorts/TDZshHvCWLo" target="_blank">Nintendo Ultra Hand Toy Short </a></h6>
+					<h6><a href="https://youtube.com/shorts/-jixZp7QfEg" target="_blank">Caves & Shrines Short</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>6: The eShops Are Gone Forever</title>
+			<itunes:title>The eShops Are Gone Forever</itunes:title>
+			<itunes:episode>6</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4321</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/006.mp3" length="85878995" type="audio/mp3" />
+			<description>Our somber thoughts on the 3DS and Wii U eShop closures. </description>
+			<itunes:subtitle>Our somber thoughts on the 3DS and Wii U eShop closures. </itunes:subtitle>
+			<itunes:summary>Our somber thoughts on the 3DS and Wii U eShop closures. </itunes:summary>
+			<pubDate>Fri, 7 Apr 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/006.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/006.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+						<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+						<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+						<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+						<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://youtu.be/puO0AnrySq0" target="_blank">Our picks on everything to check out before it closed </a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://youtu.be/puO0AnrySq0" target="_blank">Our picks on everything to check out before it closed </a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>5: Super Mario Bros Movie: Everything We Know</title>
+			<itunes:title>Super Mario Bros Movie: Everything We Know</itunes:title>
+			<itunes:episode>5</itunes:episode>
+			<itunes:author>Hunter, Brad</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4321</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/005.mp3" length="85878995" type="audio/mp3" />
+			<description>Everything we know so far about the Super Mario Bros Movie. </description>
+			<itunes:subtitle>Everything we know so far about the Super Mario Bros Movie. </itunes:subtitle>
+			<itunes:summary>Everything we know so far about the Super Mario Bros Movie. </itunes:summary>
+			<pubDate>Fri, 31 Mar 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/005.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/005.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=nMPCXuvL8EM " target="_blank">Mario Movie Direct </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=KydqdKKyGEk " target="_blank">First Official Trailer </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=GVeerZuNZYc " target="_blank">NBA All Star Weekend Spots </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=0W3OdO18t0U " target="_blank">Superbowl LVII Plumbing Commercial </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=xxLLKznljAw " target="_blank">TV Spot - Smash </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=F-RoNAomuSg " target="_blank">TV Spot - Dry Bones </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=9wzb69AmM9E " target="_blank">McDonalds Kids Meal Commercial </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=e-3sYL7vJTQ " target="_blank">Mushroom Kingdom Clip - Game Awards 2022 </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=vjSjBt9b7v0 " target="_blank">TV Spot - Bowser’s Control </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=rzkxzgNEudc" target="_blank">Pipes Trailer </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=GVeerZuNZYc " target="_blank">Teaser </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=H4UGIJRagmk " target="_blank">Peach saves toad from Koopa Attack </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=_HPFrCQsVy4 " target="_blank">TV Spot - Luigi’s Mansion </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=66j31wFLB_s " target="_blank">Final Trailer </a></h5>
+					<h5><a href="https://www.smbplumbing.com/ " target="_blank">SMB Plumbing Website</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=Rd0TGJAxkyw " target="_blank">NYC Billboard</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=rgC49V7LdSk " target="_blank">NYC Billboard </a></h5>
+					<h5><a href="https://www.youtube.com/shorts/kNU2RQuJ1xs " target="_blank">They changed the “what is this place” line </a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=wHYPrz0Py9I " target="_blank">Mario's shoes and truck </a></h5>
+					<h5><a href="https://pbs.twimg.com/media/FoEvbcSaYAMvqPF.jpg" target="_blank">Movie Poster</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=nMPCXuvL8EM " target="_blank">Mario Movie Direct </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=KydqdKKyGEk " target="_blank">First Official Trailer </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=GVeerZuNZYc " target="_blank">NBA All Star Weekend Spots </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=0W3OdO18t0U " target="_blank">Superbowl LVII Plumbing Commercial </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=xxLLKznljAw " target="_blank">TV Spot - Smash </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=F-RoNAomuSg " target="_blank">TV Spot - Dry Bones </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=9wzb69AmM9E " target="_blank">McDonalds Kids Meal Commercial </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=e-3sYL7vJTQ " target="_blank">Mushroom Kingdom Clip - Game Awards 2022 </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=vjSjBt9b7v0 " target="_blank">TV Spot - Bowser’s Control </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=rzkxzgNEudc" target="_blank">Pipes Trailer </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=GVeerZuNZYc " target="_blank">Teaser </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=H4UGIJRagmk " target="_blank">Peach saves toad from Koopa Attack </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=_HPFrCQsVy4 " target="_blank">TV Spot - Luigi’s Mansion </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=66j31wFLB_s " target="_blank">Final Trailer </a></h6>
+					<h6><a href="https://www.smbplumbing.com/ " target="_blank">SMB Plumbing Website</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=Rd0TGJAxkyw " target="_blank">NYC Billboard</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=rgC49V7LdSk " target="_blank">NYC Billboard </a></h6>
+					<h6><a href="https://www.youtube.com/shorts/kNU2RQuJ1xs " target="_blank">They changed the “what is this place” line </a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=wHYPrz0Py9I " target="_blank">Mario's shoes and truck </a></h6>
+					<h6><a href="https://pbs.twimg.com/media/FoEvbcSaYAMvqPF.jpg" target="_blank">Movie Poster</a></h6>
+					
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>4: The Big Change In Pokémon</title>
+			<itunes:title>The Big Change In Pokémon</itunes:title>
+			<itunes:episode>4</itunes:episode>
+			<itunes:author>Hunter, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4372</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/004.mp3" length="88276316" type="audio/mp3" />
+			<description>We discuss some of the changes that the main series of Pokémon games have taken over the years. From a pretty standard linear JRPG to a fully open world experience. Some of the changes and pitfalls they've made along the way, what they did right, and how the series can improve from here. </description>
+			<itunes:subtitle>We discuss some of the changes that the main series of Pokémon games have taken over the years. From a pretty standard linear JRPG to a fully open world experience. Some of the changes and pitfalls they've made along the way, what they did right, and how the series can improve from here. </itunes:subtitle>
+			<itunes:summary>We discuss some of the changes that the main series of Pokémon games have taken over the years. From a pretty standard linear JRPG to a fully open world experience. Some of the changes and pitfalls they've made along the way, what they did right, and how the series can improve from here. </itunes:summary>
+			<pubDate>Fri, 17 Mar 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/004.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/004.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>3: How Was Super Nintendo World?</title>
+			<itunes:title>How Was Super Nintendo World?</itunes:title>
+			<itunes:episode>3</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>4758</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/003.mp3" length="94144046" type="audio/mp3" />
+			<description>Our reactions to February's 2023 State of Play, Pokémon Presents and Super Nintendo World!</description>
+			<itunes:subtitle>Our reactions to February's 2023 State of Play, Pokémon Presents and Super Nintendo World!</itunes:subtitle>
+			<itunes:summary>Our reactions to February's 2023 State of Play, Pokémon Presents and Super Nintendo World!</itunes:summary>
+			<pubDate>Fri, 10 Mar 2023 05:00:00 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/003.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/003.html</guid>
+			<ytlink>https://www.youtube.com/@Low-HP</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=GGkP6D5lJcw&t=0s" target="_blank">Sony's State of Play</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=Qyfyd_t9mzs&t=0s" target="_blank">Pokémon Presents</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=GGkP6D5lJcw&t=0s" target="_blank">Sony's State of Play</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=Qyfyd_t9mzs&t=0s" target="_blank">Pokémon Presents</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>2: Tears of the Kingdom: Everything We Know</title>
+			<itunes:title>Tears of the Kingdom: Everything We Know</itunes:title>
+			<itunes:episode>2</itunes:episode>
+			<itunes:author>Hunter, Brad</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>8699</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/002.mp3" length="97004840" type="audio/mp3" />
+			<description>We discuss everything we know about Tears of the Kingdom so far; all footage shown, gameplay patents, and theories. </description>
+			<itunes:subtitle>We discuss everything we know about Tears of the Kingdom so far; all footage shown, gameplay patents, and theories. </itunes:subtitle>
+			<itunes:summary>We discuss everything we know about Tears of the Kingdom so far; all footage shown, gameplay patents, and theories. </itunes:summary>
+			<pubDate>Wed, 22 Feb 2023 17:17:44 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/002.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/002.html</guid>
+			<ytlink>https://youtu.be/r8bgg8w_UjI</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					<li><a href="https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015">Apple Podcasts</a></li>
+					<li><a href="https://open.spotify.com/show/64YjEAZrGdgkQk16i88Jtf">Spotify</a></li>
+					<li><a href="https://persomatey.github.io/LowHP/thelowhppodcast.rss">RSS</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/watch?v=3fr1Z07AV00" target="_blank">First Look Trailer</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=Pi-MRZBP91I" target="_blank">E3 2021 Teaser</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=f_vgseuw_o8" target="_blank">Release Timing Update</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=2SNF4M_v7wc" target="_blank">Official Trailer #1</a></h5>
+					<h5><a href="https://www.youtube.com/watch?v=fYZuiFDQwQw" target="_blank">Official Trailer #2</a></h5>
+					<h5><a href="https://twitter.com/ZeldaOfficialJP" target="_blank">Zelda Japan Twitter</a></h5>
+					<h5><a href="https://www.nintendo.co.uk/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html#Overview" target="_blank">Zelda UK Website</a></h5>
+					<h5><a href="https://www.nintendo.co.jp/zelda/totk/index.html" target="_blank">Zelda Japan Website</a></h5>
+					<h5><a href="https://archive.org/details/TheLegendOfZeldaBreathOfTheWildCreatingAChampion/mode/2up" target="_blank">Tears of the Kingdom Patents</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/watch?v=3fr1Z07AV00" target="_blank">First Look Trailer</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=Pi-MRZBP91I" target="_blank">E3 2021 Teaser</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=f_vgseuw_o8" target="_blank">Release Timing Update</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=2SNF4M_v7wc" target="_blank">Official Trailer #1</a></h6>
+					<h6><a href="https://www.youtube.com/watch?v=fYZuiFDQwQw" target="_blank">Official Trailer #2</a></h6>
+					<h6><a href="https://twitter.com/ZeldaOfficialJP" target="_blank">Zelda Japan Twitter</a></h6>
+					<h6><a href="https://www.nintendo.co.uk/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html#Overview" target="_blank">Zelda UK Website</a></h5>
+					<h6><a href="https://www.nintendo.co.jp/zelda/totk/index.html" target="_blank">Zelda Japan Website</a></h5>
+					<h6><a href="https://archive.org/details/TheLegendOfZeldaBreathOfTheWildCreatingAChampion/mode/2up" target="_blank">Tears of the Kingdom Patents</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+		<item>
+			<title>1: February Direct Discussion</title>
+			<itunes:title>February Direct Discussion</itunes:title>
+			<itunes:episode>1</itunes:episode>
+			<itunes:author>Hunter, Brad, Gerardo, Teresa </itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>6970</itunes:duration>
+			<enclosure url="https://persomatey.github.io/LowHP/audio/001.mp3" length="99777809" type="audio/mp3" />
+			<description>Our reactions to February's 2023 Nintendo direct </description>
+			<itunes:subtitle>Our reactions to February's 2023 Nintendo direct </itunes:subtitle>
+			<itunes:summary>Our reactions to February's 2023 Nintendo direct </itunes:summary>
+			<pubDate>Sat, 18 Feb 2023 17:04:33 PST</pubDate>
+			<link>https://persomatey.github.io/LowHP/episodes/001.html</link>
+			<guid>https://persomatey.github.io/LowHP/episodes/001.html</guid>
+			<ytlink>https://youtu.be/3k0AhEAtT5k</ytlink>
+			<content:encoded>
+				<![CDATA[
+					<h4>You can follow us:</h4>
+					<ul>
+					<li><a href="https://www.youtube.com/@Low-HP">YouTube</a></li>
+					</ul>
+					
+					<h4>Links and Show Notes:</h4>
+					<h5><a href="https://www.youtube.com/live/yMdUSVSEp7U?feature=share" target="_blank">Nintendo February 2023 Direct</a></h5>
+				]]>
+			</content:encoded>
+			<content>
+				<![CDATA[
+					<h5>Links and Show Notes:</h5>
+					<h6><a href="https://www.youtube.com/live/yMdUSVSEp7U?feature=share" target="_blank">Nintendo February 2023 Direct</a></h6>
+				]]>
+			</content>
+			<itunes:image href="https://raw.githubusercontent.com/Persomatey/LowHP/main/images/LowHPLogoRSSSize.png" />
+		</item>
+	</channel>
+</rss>
