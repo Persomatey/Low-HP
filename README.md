@@ -16,4 +16,4 @@
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-low-hp-podcast/id1672813015) 
 
-[RSS](https://persomatey.github.io/LowHP/thelowhppodcast.rss)
+[RSS](https://persomatey.github.io/Low-HP/thelowhppodcast.rss)
